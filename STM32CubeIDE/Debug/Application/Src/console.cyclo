@@ -1,0 +1,8 @@
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:14:6:Console_PrintString	3
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:25:6:Console_PrintLine	1
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:31:6:Console_PrintNewLine	1
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:36:6:Console_PrintUint	3
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:52:6:Console_PrintInt	2
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:68:6:Console_PrintFloat	6
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:112:6:Console_PrintHex	4
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/console.c:131:6:Console_ReadChar	2

@@ -1,0 +1,8 @@
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:35:6:FaultManager_Init	4	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:43:6:FaultManager_Latch	16	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:52:6:FaultManager_IsLatched	4	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:57:13:FaultManager_GetCode	4	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:62:13:FaultManager_GetText	24	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:76:6:FaultManager_Clear	16	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:92:6:FaultManager_OnDriverFaultInterrupt	8	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/fault_manager.c:101:6:FaultManager_CheckDriverFault	8	static

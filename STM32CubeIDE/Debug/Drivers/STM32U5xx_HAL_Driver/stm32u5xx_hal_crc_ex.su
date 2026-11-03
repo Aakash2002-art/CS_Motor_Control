@@ -1,0 +1,3 @@
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_crc_ex.c:89:19:HAL_CRCEx_Polynomial_Set	32	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_crc_ex.c:168:19:HAL_CRCEx_Input_Data_Reverse	16	static
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_crc_ex.c:194:19:HAL_CRCEx_Output_Data_Reverse	16	static

@@ -1,0 +1,6 @@
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/ma782_encoder.c:25:10:Ma782_ReadAngleRaw	1
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/ma782_encoder.c:30:9:Ma782_ReadRegister	1
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/ma782_encoder.c:43:9:Ma782_WriteRegister	1
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/ma782_encoder.c:57:6:Ma782_ConfigureVolatile	1
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/ma782_encoder.c:69:6:Ma782_ReadConfiguration	5
+F:/TMC Motion Control/Constar Motor/Volumetric code/TMC4671_MA782_V4_5_Volumetric_Print_Only_time_Count/STM32U575_Volumetric_Firmware/Src/ma782_encoder.c:88:6:Ma782_ConfigurationPass	1
