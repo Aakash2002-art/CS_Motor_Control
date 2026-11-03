@@ -481,3 +481,8 @@ Only the first fault is kept; the bridge coasts; `clear` re-arms.
 | `Inc/app_config.h` | motor profile, `APP_COMPLEMENTARY_DRIVE`, `APP_IGNORE_DRIVER_FAULTS`, breakaway and driver-limit constants, retuned Constar values |
 | `Src/motion_control.c` | breakaway kick, fast speed, hold-race fix, diagnostics (stationary samples, calibration diag), pulse constants, comments |
 | `Src/motor_driver.c` | zero duty coasts, complementary drive, hard limit |
+| `Src/bsp_hw.c` | AIN2 PWM mode 2 for complementary drive |
+| `Src/fault_manager.c` | driver-fault ignore switch |
+| `Src/app_commands.c` | `pw` command, richer `z` and `dt` output, comments |
+| `Src/*.c` | function comments on all modules |
+| `docs/` | this guide, flowcharts, HTML viewer |
